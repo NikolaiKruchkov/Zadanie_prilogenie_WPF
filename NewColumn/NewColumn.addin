@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\NewColumn.dll"</Assembly>		
+		<AddInId>51B5BF75-9B39-4902-B00B-3372A9232C00</AddInId>		
+		<FullClassName>NewColumn.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Новая колонна</Text>
+	</AddIn>
+</RevitAddIns>
